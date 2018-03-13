@@ -1,0 +1,79 @@
+body {
+    background: #9f0d0d;
+    font-family: Arial;
+    ;
+}
+.logo {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box {
+    width: 300px;
+    border: 2px solid black;
+    height: 80px;
+    box-sizing: border-box;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: deepskyblue;
+    transition: 0.5s;
+}
+.box-p {
+    font-size: 25px;
+}
+.fnt {
+    font-size: 20px;
+}
+.lupa {
+    width: 40px;
+    height: 40px;
+}
+.input {
+    margin-top: 28px;
+    margin-left: 10px;
+}
+.img {
+    margin-top: 7px
+}
+.box-pad {
+    padding-top: 7px
+}
+.articles {
+    width: 400px;
+    height: 700px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white
+}
+.main {
+    width: 1000px;
+    height: 3270px;
+    background: #ed3434;
+    margin-left: 70px
+}
+.parent {
+    display: flex
+}
+.headline {
+    font-size: 28px;
+    color: WHITE;
+    text-align: center
+}
+.main-img {
+    height: 300px;
+    margin-right: 40px;
+    box-sizing: border-box
+}
+.pd-lf {
+    padding-left: 10px
+}
+P {
+    COLOR: WHITE;
+}
+
