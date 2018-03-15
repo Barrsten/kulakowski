@@ -1,7 +1,6 @@
 body {
     background: #9f0d0d;
-    font-family: Arial;
-    ;
+    font-family: sans-serif;
 }
 .logo {
     display: flex;
@@ -11,12 +10,10 @@ body {
 .box {
     width: 300px;
     border: 2px solid black;
-    height: 80px;
+    height: 400px;
     box-sizing: border-box;
-    text-align: center;
 }
 a {
-    text-decoration: none;
     color: white;
 }
 a:hover {
@@ -48,7 +45,6 @@ a:hover {
     height: 700px;
     padding-top: 10px;
     box-sizing: border-box;
-    text-align: center;
     color: white
 }
 .main {
@@ -75,4 +71,7 @@ a:hover {
 }
 P {
     COLOR: WHITE;
+}
+.margin-none {
+    margin: 0;
 }
